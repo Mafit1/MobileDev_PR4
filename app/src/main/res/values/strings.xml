@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PR4</string>
+    <string name="text1">Some text</string>
+    <string name="text2">Another text</string>
+    <string name="text3">Third text</string>
+    <string name="text4">Задание
+Создать примеры реализующие различные способы разметки экрана:
+• Контейнер LinearLayout. Вес элемента. Программное создание
+LinearLayout. Атрибут Layout_gravity.
+• Контейнер RelativeLayout. Программное создание RelativeLayout.
+• Контейнер TableLayout. Элемент TableRow. Атрибут layout_span.
+Программное создание TableLayout.
+• Контейнер FrameLayout. Атрибут android:layout_gravity. Программное
+создание FrameLayout в коде MainActivity.
+• Контейнер GridLayout. Атрибуты android:rowCount и
+android:columnCount. Атрибуты android:layout_column,
+android:layout_row, android:layout_columnSpan. android:layout_rowSpan.
+Программное создание GridLayout. Класс GridLayout.LayoutParams.
+Свойство columnSpec, rowSpec, leftMargin, rightMargin, topMargin,
+bottomMargin, width, height. Объект GridLayout.Spec.
+• Контейнер ScrollView. Создание ScrollView программно в коде
+MainActivity.
+• Вложенные layout. Элемент include.
+• Атрибут Gravity. Позиционирование внутри элемента. Программная
+установка gravity</string>
+</resources>
